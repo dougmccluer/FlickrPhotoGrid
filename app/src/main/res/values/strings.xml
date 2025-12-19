@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FauxToes</string>
+    <string name="photo">photo</string>
+    <string name="back">Back</string>
+    <string name="photo_by">By %s</string>
+    <string name="photo_real_name">Real name: %s</string>
+    <string name="photo_views">Views: %s</string>
+    <string name="photo_tags">Tags: %s</string>
+    <string name="photo_taken">Taken: %s</string>
+    <string name="photo_details_load_error">Failed to load photo details</string>
+</resources>

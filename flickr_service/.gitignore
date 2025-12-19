@@ -1,0 +1,41 @@
+
+.gradle
+/gradlew
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+bin/
+gen/
+out/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# IntelliJ
+*.iml
+!.idea/codeStyles
+!.idea/codeStyles/*
+!.idea/fileTemplates
+!.idea/file.templates.settings.xml
+**/.idea/*
+
+# NDK
+.externalNativeBuild
+**/ndkHelperBin
+**/.cxx
+
+# Kotlin 2.0
+.kotlin/
+
+
